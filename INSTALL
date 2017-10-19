@@ -1,0 +1,9 @@
+Building HollyWoodCoin
+
+See doc/readme-qt.rst for instructions on building HollyWoodCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HollyWoodCoin.
+
+See doc/build-*.txt for instructions on building hollywoodcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HollyWoodCoin.
