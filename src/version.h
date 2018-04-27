@@ -7,6 +7,8 @@
 #include "clientversion.h"
 #include <string>
 
+#define OPENSSL_VER_1_1 0x10100000L
+
 //
 // client versioning
 //
